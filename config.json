@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsdncrypt",
+        "uuid": 14597850,
+        "checksum": "kunoh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
